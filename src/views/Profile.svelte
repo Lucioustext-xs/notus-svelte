@@ -109,11 +109,11 @@
                 class="text-sm leading-normal mt-0 mb-2 text-blueGray-400 font-bold uppercase"
               >
                 <i class="fas fa-map-marker-alt mr-2 text-lg text-blueGray-400"></i>
-                Los Angeles, California
+                Manhattan, New York
               </div>
               <div class="mb-2 text-blueGray-600 mt-10">
                 <i class="fas fa-briefcase mr-2 text-lg text-blueGray-400"></i>
-                Solution Manager - Creative Tim Officer
+                Solution Manager - Lucious Graham
               </div>
               <div class="mb-2 text-blueGray-600">
                 <i class="fas fa-university mr-2 text-lg text-blueGray-400"></i>
